@@ -12,15 +12,22 @@ Esse foi um treinamento realizado para Universidade do Estado de Mato Grosso dos
 4. Um aluno é definido pelo seu nome, matrícula e situação.
 5. Um aluno somente pode pegar emprestado um livro por vez e o empréstimo tem validade de 3 dias.
 
-### Funcionalidades
+### Implementações
 
+- Ao iniciar a aplicação a Instituição e Biblioteca deve ser cadastrada automaticamente
+- Sobrescreva o equals, hashCode e toString das entidades de Aluno e Livro
+- Adicione uma funcionalidade para modificar o nome do livro
+- Mostre no terminal uma opção para cadastro de alunos
+- Mostre no terminal uma opção para cadastro de livros
 - Mostre no terminal os dados da bibliotecas
 - Mostre no terminal os dados de todos os alunos
+- Mostre no terminal os dados detalhados dos alunos pela matrícula
 - Mostre no terminal a quantidade de livros emprestados
 - Mostre no terminal a quantidade de livros disponíveis
 - Mostre no terminal a quantidade de alunos retidos
 - Mostre no terminal todos os livros cadastrados
 - Mostre no terminal os livros ordenados
+- Mostre no terminal os livros do mais recente cadastrado até o mais antigo
 
 ### **Requisitos**
 
